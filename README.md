@@ -1,1 +1,1 @@
-# vishcaresynce_adb_repo
+this repo is for caresync project for databricks
